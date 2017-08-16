@@ -68,7 +68,7 @@ sum(9, 8)
 // Then, write and example of using the function.
 
 function avg(x, y, z){
-  let together = (x * y * z)
+  let together = (x + y + z)
   let final = together / 3
   console.log(final)
 }
